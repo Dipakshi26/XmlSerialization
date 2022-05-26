@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><ArrayOfEBBills xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><EBBills><CustomerId>11396</CustomerId><CustomerName>Dipakshi</CustomerName><NoOfUnits>40</NoOfUnits><UnitPerCost>7</UnitPerCost><Total>280</Total></EBBills></ArrayOfEBBills>
